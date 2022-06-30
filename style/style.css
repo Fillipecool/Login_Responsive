@@ -181,3 +181,10 @@ body{
         transform: translateX(30px);
     }
 }
+
+.msg_error{
+    color: #ff6d6d;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
